@@ -1,2 +1,3 @@
 # JavaBean
 # Introduction
+Visual Programming Languages (such as Visual Basic and Delphi) have been very popular in building GUI applications. In visual programming, you can drag and drop a visual component into a Application Builder and attach event handler to the component. Visual programming is ideal for rapid prototyping of GUI applications. Visual programming relies on component and event-driven technology. Components are reusable software units that can be assembled into an application via an application building tool (e.g., Visual Studio, JBuilder, NetBeans, Eclipse).
