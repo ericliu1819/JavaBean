@@ -30,3 +30,5 @@ For properties of boolean type, the getter shall be:
 private boolean PropertyName
 public boolean isPropertyName()                 // getter for boolean property
 public void setPropertyName(boolean value)      // setter
+
+# javac -d target/classes src\elect\*.java
